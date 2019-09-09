@@ -1,0 +1,9 @@
+﻿  main.cpp
+e:\dev\c++\projects\opengl\testing\opengl\opengl\src\threadinterface.h(41): warning C4018: '<': signed/unsigned mismatch
+e:\dev\c++\projects\opengl\testing\opengl\opengl\src\threadinterface.h(45): warning C4018: '<': signed/unsigned mismatch
+e:\dev\c++\projects\opengl\testing\opengl\opengl\src\ship.h(104): warning C4018: '<': signed/unsigned mismatch
+e:\dev\c++\projects\opengl\testing\opengl\opengl\src\ship.h(112): warning C4018: '<': signed/unsigned mismatch
+e:\dev\c++\projects\opengl\testing\opengl\opengl\src\main.cpp(26): warning C4553: '==': operator has no effect; did you intend '='?
+e:\dev\c++\projects\opengl\testing\opengl\opengl\src\main.cpp(98): warning C4018: '<': signed/unsigned mismatch
+e:\dev\c++\projects\opengl\testing\opengl\opengl\src\main.cpp(105): warning C4018: '<': signed/unsigned mismatch
+  OpenGL.vcxproj -> E:\Dev\C++\Projects\OpenGL\Testing\OpenGL\Debug\OpenGL.exe
